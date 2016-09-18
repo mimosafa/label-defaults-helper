@@ -12,7 +12,7 @@ Generate Custom Post Type Labels for Admin UI.
 
 == Description ==
 
-Generate Custom Post Type Labels for Admin UI.
+When you register a custom post type using 'register_post_type' function, a variety of label is automatically generated.
 
 == Installation ==
 
