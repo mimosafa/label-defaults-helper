@@ -1,0 +1,114 @@
+# Copyright (C) 2016 Toshimichi Mimoto <mimosafa@gmail.com>
+# This file is distributed under the same license as the Label Defaults Helper package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Label Defaults Helper 0.1\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/label-defaults-helper\n"
+"POT-Creation-Date: 2016-09-18 16:33:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: label-defaults-helper.php:77
+msgid "Add New %s"
+msgstr ""
+
+#: label-defaults-helper.php:78
+msgid "Edit %s"
+msgstr ""
+
+#: label-defaults-helper.php:79
+msgid "New %s"
+msgstr ""
+
+#: label-defaults-helper.php:80
+msgid "View %s"
+msgstr ""
+
+#: label-defaults-helper.php:81
+msgid "Search %s"
+msgstr ""
+
+#: label-defaults-helper.php:82
+msgid "No %s found."
+msgstr ""
+
+#: label-defaults-helper.php:83
+msgid "No %s found in Trash."
+msgstr ""
+
+#: label-defaults-helper.php:84
+msgid "All %s"
+msgstr ""
+
+#: label-defaults-helper.php:85
+msgid "Parent %s:"
+msgstr ""
+
+#: label-defaults-helper.php:86
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: label-defaults-helper.php:88
+msgid "Set %s"
+msgstr ""
+
+#: label-defaults-helper.php:89
+msgid "Remove %s"
+msgstr ""
+
+#: label-defaults-helper.php:90
+msgid "Use as %s"
+msgstr ""
+
+#: label-defaults-helper.php:91
+msgid "%s Archives"
+msgstr ""
+
+#: label-defaults-helper.php:92
+msgid "Insert into %s"
+msgstr ""
+
+#: label-defaults-helper.php:93
+msgid "Filter %s list"
+msgstr ""
+
+#: label-defaults-helper.php:94
+msgid "%s list navigation"
+msgstr ""
+
+#: label-defaults-helper.php:95
+msgid "%s list"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Label Defaults Helper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Generate Custom Post Type Labels for Admin UI."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Toshimichi Mimoto <mimosafa@gmail.com>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mimosafa.me"
+msgstr ""

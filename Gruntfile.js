@@ -9,7 +9,7 @@ module.exports = function( grunt ) {
 
 		addtextdomain: {
 			options: {
-				textdomain: 'label-default-helper',
+				textdomain: 'label-defaults-helper',
 			},
 			target: {
 				files: {
@@ -30,8 +30,8 @@ module.exports = function( grunt ) {
 			target: {
 				options: {
 					domainPath: '/languages',
-					mainFile: 'label-default-helper.php',
-					potFilename: 'label-default-helper.pot',
+					mainFile: 'label-defaults-helper.php',
+					potFilename: 'label-defaults-helper.pot',
 					potHeaders: {
 						poedit: true,
 						'x-poedit-keywordslist': true
