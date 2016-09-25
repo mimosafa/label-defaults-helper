@@ -6,7 +6,7 @@
  * Author URI:  http://mimosafa.me
  * Text Domain: label-defaults-helper
  * Domain Path: /languages
- * Version:     0.1
+ * Version:     0.1.0
  */
 
 PostTypeLabelDefaults::instance();
