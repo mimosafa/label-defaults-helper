@@ -2,7 +2,7 @@
 Contributors: mimosafa
 Donate link: http://mimosafa.me
 Tags: Custom Post Type, Label, Helper, Post Type
-Requires at least: 3.7
+Requires at least: 4.6
 Tested up to: 4.6.1
 Stable tag: 0.1.0
 License: GPLv2 or later
