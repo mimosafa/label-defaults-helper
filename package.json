@@ -1,9 +1,9 @@
 
 {
-  "name": "test",
+  "name": "label-defaults-helper",
   "version": "0.1.0",
   "main": "Gruntfile.js",
-  "author": "YOUR NAME HERE",
+  "author": "Toshimichi Mimoto",
   "scripts":{
     "build": "grunt addtextdomain wp_readme_to_markdown makepot"
   },
