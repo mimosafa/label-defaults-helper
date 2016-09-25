@@ -23,10 +23,10 @@ class PostTypeLabelDefaults {
 	}
 
 	public function post_type_args( $args, $name ) {
-		if ( ! isset( $args['labels'] ) ) {
-			$args['labels'] = [];
+		if ( isset( $args['_builtin'] ) && $args['_builtin'] ) {
+			return $args;
 		}
-		if ( ! is_array( $args['labels'] ) ) {
+		if ( ! isset( $args['labels'] ) || ! is_array( $args['labels'] ) ) {
 			$args['labels'] = [];
 		}
 		if ( ! isset( $args['labels']['name'] ) || ! filter_var( $args['labels']['name'] ) ) {
